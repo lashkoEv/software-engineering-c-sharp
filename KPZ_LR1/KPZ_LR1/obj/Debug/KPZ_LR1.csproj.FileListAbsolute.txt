@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\KPZ_LR1\KPZ_LR1\bin\Debug\KPZ_LR1.exe.config
+C:\Users\Admin\source\repos\KPZ_LR1\KPZ_LR1\bin\Debug\KPZ_LR1.exe
+C:\Users\Admin\source\repos\KPZ_LR1\KPZ_LR1\bin\Debug\KPZ_LR1.pdb
+C:\Users\Admin\source\repos\KPZ_LR1\KPZ_LR1\obj\Debug\KPZ_LR1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\KPZ_LR1\KPZ_LR1\obj\Debug\KPZ_LR1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\KPZ_LR1\KPZ_LR1\obj\Debug\KPZ_LR1.exe
+C:\Users\Admin\source\repos\KPZ_LR1\KPZ_LR1\obj\Debug\KPZ_LR1.pdb

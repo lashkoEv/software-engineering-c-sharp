@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\KPZ_LR2\KPZ_LR2\bin\Debug\KPZ_LR2.exe.config
+C:\Users\Admin\source\repos\KPZ_LR2\KPZ_LR2\bin\Debug\KPZ_LR2.exe
+C:\Users\Admin\source\repos\KPZ_LR2\KPZ_LR2\bin\Debug\KPZ_LR2.pdb
+C:\Users\Admin\source\repos\KPZ_LR2\KPZ_LR2\obj\Debug\KPZ_LR2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\KPZ_LR2\KPZ_LR2\obj\Debug\KPZ_LR2.exe
+C:\Users\Admin\source\repos\KPZ_LR2\KPZ_LR2\obj\Debug\KPZ_LR2.pdb
