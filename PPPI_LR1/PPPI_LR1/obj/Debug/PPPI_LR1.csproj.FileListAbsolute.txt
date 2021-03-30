@@ -1,0 +1,7 @@
+D:\Study\DNU\ПППИ\PPPI_1k_2s\PPPI_LR1\PPPI_LR1\obj\Debug\PPPI_LR1.csprojAssemblyReference.cache
+D:\Study\DNU\ПППИ\PPPI_1k_2s\PPPI_LR1\PPPI_LR1\obj\Debug\PPPI_LR1.csproj.CoreCompileInputs.cache
+D:\Study\DNU\ПППИ\PPPI_1k_2s\PPPI_LR1\PPPI_LR1\bin\Debug\PPPI_LR1.exe.config
+D:\Study\DNU\ПППИ\PPPI_1k_2s\PPPI_LR1\PPPI_LR1\bin\Debug\PPPI_LR1.exe
+D:\Study\DNU\ПППИ\PPPI_1k_2s\PPPI_LR1\PPPI_LR1\bin\Debug\PPPI_LR1.pdb
+D:\Study\DNU\ПППИ\PPPI_1k_2s\PPPI_LR1\PPPI_LR1\obj\Debug\PPPI_LR1.exe
+D:\Study\DNU\ПППИ\PPPI_1k_2s\PPPI_LR1\PPPI_LR1\obj\Debug\PPPI_LR1.pdb
