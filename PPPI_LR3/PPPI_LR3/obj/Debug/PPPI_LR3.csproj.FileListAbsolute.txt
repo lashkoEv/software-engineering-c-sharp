@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\PPPI_LR3\PPPI_LR3\bin\Debug\PPPI_LR3.exe.config
+C:\Users\Admin\source\repos\PPPI_LR3\PPPI_LR3\bin\Debug\PPPI_LR3.exe
+C:\Users\Admin\source\repos\PPPI_LR3\PPPI_LR3\bin\Debug\PPPI_LR3.pdb
+C:\Users\Admin\source\repos\PPPI_LR3\PPPI_LR3\obj\Debug\PPPI_LR3.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\PPPI_LR3\PPPI_LR3\obj\Debug\PPPI_LR3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PPPI_LR3\PPPI_LR3\obj\Debug\PPPI_LR3.exe
+C:\Users\Admin\source\repos\PPPI_LR3\PPPI_LR3\obj\Debug\PPPI_LR3.pdb

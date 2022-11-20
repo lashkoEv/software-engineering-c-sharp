@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FirstName>First</FirstName>
+  <LastName>Second</LastName>
+  <Year>2021</Year>
+  <Date>2021-05-13T00:00:00</Date>
+  <Education>SecondEducation</Education>
+  <Group>10</Group>
+  <Exams>
+    <Exam>
+      <Name>Exam</Name>
+      <Grade>5</Grade>
+      <Date>2021-05-13T10:00:52.298855+03:00</Date>
+    </Exam>
+    <Exam>
+      <Name>Exam</Name>
+      <Grade>5</Grade>
+      <Date>2021-05-13T10:00:52.298855+03:00</Date>
+    </Exam>
+    <Exam>
+      <Name>Exam</Name>
+      <Grade>5</Grade>
+      <Date>2021-05-13T10:00:52.298855+03:00</Date>
+    </Exam>
+    <Exam>
+      <Name>2</Name>
+      <Grade>2</Grade>
+      <Date>2020-12-20T00:00:00</Date>
+    </Exam>
+    <Exam>
+      <Name>20</Name>
+      <Grade>12</Grade>
+      <Date>2020-12-20T00:00:00</Date>
+    </Exam>
+  </Exams>
+  <Tests />
+  <Person>
+    <FirstName>First</FirstName>
+    <LastName>Second</LastName>
+    <Year>2021</Year>
+    <Date>2021-05-13T00:00:00</Date>
+  </Person>
+</Student>
